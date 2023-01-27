@@ -6,8 +6,8 @@
      - clone the project <br>
      
 - [ ] <b>Git commands used :</b> <br>
-      -  npm install newman <br>
-      -  npm i newman-reporter-htmlextra <br>
+      -  npm i <br>
+      -  npm run report <br>
                  
 - [ ] <b>Technology Used Here :</b><br>
                 - Postman<br>
